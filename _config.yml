@@ -124,9 +124,9 @@ navigation_header:
 - title: Inicio 
   url: /
 - title: Programa
-  url: /programa/index.html
+  url: /programa/
 - title: Comité
-  url: /comite/index.html
+  url: /comite/
 - title: Registro de alumno
   url: https://perduptx.tiamlab.com/portal/registro_evento_participante
 - title: Pase de asistencia
